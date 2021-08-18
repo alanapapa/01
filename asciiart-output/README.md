@@ -1,0 +1,1 @@
+## Ascii-art-output is to take a string as an argument and write the string in ASCII graphic representation to a separate text file.

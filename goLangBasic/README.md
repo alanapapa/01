@@ -1,0 +1,1 @@
+## These are my solutions to educational tasks for Bash (Unix shell) and Go lang on 01 Edu System during `piscine`

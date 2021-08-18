@@ -1,0 +1,1 @@
+## Ascii-art-fs is to get a string (with the name of the font) as arguments and output the string in ASCII graphic representation in the desired font.

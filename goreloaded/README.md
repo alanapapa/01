@@ -1,0 +1,1 @@
+## These are my solutions for Go lang educational tasks on 01 Edu System
